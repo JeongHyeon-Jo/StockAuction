@@ -31,7 +31,7 @@ final GoRouter router = GoRouter(
   initialLocation: '/login',
   navigatorKey: rootNavigatorKey,
   routes: [
-    // Auth 관련 Route ddddddd
+    // Auth 관련 Route
     GoRoute(
       path: '/login',
       builder: (context, state) => LoginScreen(),
