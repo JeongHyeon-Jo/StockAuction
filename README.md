@@ -4,9 +4,6 @@
 ## 프로젝트 기간
 - 2024.09.20 ~ 2024.10.04 (2주)
 
-## 시연 영상
-[![StockAuction 시연영상](https://postfiles.pstatic.net/MjAyNTAzMDVfMSAg/MDAxNzQxMTYyNDYwOTg2.WnEdAeRfkfKZcizqLKZMCFc3gSlh1Ey_MpQXa7gV_CAg.wl0x29w7jIKtap9fxwdS0-yMfvezl2Dht2H__M2hrn0g.PNG/%EC%8A%A4%ED%86%A1%EC%98%A5%EC%85%98.PNG?type=w966)](https://www.youtube.com/watch?v=NTRIucfXQ2I)
-
 ## 팀원 및 담당 파트
 ### 정원교 (팀장)
 - 
@@ -57,6 +54,9 @@
 - Node.js
 - Xcode (iOS 빌드용)
 - Android Studio (Android 빌드용)
+
+## 시연 영상
+[![StockAuction 시연영상](https://postfiles.pstatic.net/MjAyNTAzMDVfMSAg/MDAxNzQxMTYyNDYwOTg2.WnEdAeRfkfKZcizqLKZMCFc3gSlh1Ey_MpQXa7gV_CAg.wl0x29w7jIKtap9fxwdS0-yMfvezl2Dht2H__M2hrn0g.PNG/%EC%8A%A4%ED%86%A1%EC%98%A5%EC%85%98.PNG?type=w966)](https://www.youtube.com/watch?v=NTRIucfXQ2I)
 
 ## 저장소
 [GitHub 저장소](https://github.com/JeongHyeon-Jo/Travel-On/tree/main)
