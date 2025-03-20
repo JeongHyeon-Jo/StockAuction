@@ -35,8 +35,7 @@
   - 현재 나의 판매중, 판매 완료 물품 목록 확인
   - 내가 구매한 물품 목록 확인
 - 앱 아이콘, 유저 기본 프로필 이미지 생성
-- [![시연영상](https://postfiles.pstatic.net/MjAyNTAzMDVfMSAg/MDAxNzQxMTYyNDYwOTg2.WnEdAeRfkfKZcizqLKZMCFc3gSlh1Ey_MpQXa7gV_CAg.wl0x29w7jIKtap9fxwdS0-yMfvezl2Dht2H__M2hrn0g.PNG/%EC%8A%A4%ED%86%A1%EC%98%A5%EC%85%98.PNG?type=w966)](https://www.youtube.com/watch?v=NTRIucfXQ2I)
- 촬영/편집
+- [시연영상](https://www.youtube.com/watch?v=NTRIucfXQ2I) 촬영/편집
  
 ### 최지희 (팀원)
 - 마이페이지 UI
@@ -49,18 +48,43 @@
 ## 담당 기능 📌
 ### 채팅 기능 🗨
 - 실시간 채팅
+
+<img src="" width="200">
+
 - 거래 확정 버튼 전송
+
+<img src="" width="200">
+
 - 갤러리에 저장된 사진 및 카메라로 찍은 사진 전송
+
+<img src="" width="200">
+
 
 ### 프로필 기능 🤠
 - 채팅방 연결
+
+<img src="" width="200">
+
 - 해당 사용자가 올린 낙찰 전인 경매중인 상품 확인
+
+<img src="" width="200">
+
 - 해당 사용자가 올린 낙찰 후 판매중인 상품 확인
+
+<img src="" width="200">
+
 - 해당 사용자가 올린 낙찰 후 판매완료 상품 확인
+
+<img src="" width="200">
 
 ### 마이페이지 기능 🛒
 - 현재 나의 판매중, 판매 완료 물품 목록 확인
+
+<img src="" width="200">
+
 - 내가 구매한 물품 목록 확인
+
+<img src="" width="200">
 
 ## 그 외 기능
 ### 유저 기능
