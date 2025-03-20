@@ -1,4 +1,4 @@
-# 스톡옥션 (StockAuction)
+# <img src="https://postfiles.pstatic.net/MjAyNTAzMjBfMjY1/MDAxNzQyNDYxOTI1MDc1.nKnpjzFpLQDL3lWjIKx2LfQATpT4z0_qiQL4XdMv5ncg.0a8OnCBCpWOS3wUCsGfy6dbsJZ1N6l8uUpQsGaK_H08g.PNG/StockAuction.png?type=w966" width="40"> 스톡옥션 (StockAuction)
 중고 혹은 안쓰는 제품을 경매를 통해 사고 팔 수 있는 거래 플랫폼 앱
 
 ## 프로젝트 기간
