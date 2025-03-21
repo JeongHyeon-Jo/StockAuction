@@ -25,7 +25,7 @@
 ### 조정현 (팀원)
 - 채팅 관련 기능
   - 갤러리, 카메라를 사용한 이미지 전송 기능
-  - 거래 확정 메시지 보내기 기능
+  - 결제 시스템이 없는 [거래 프로세스 제작](https://plume-eggplant-120.notion.site/1b4a75315bc18018bbdbef56fd06d60a?pvs=4)
   - 채팅방 목록
 - 사용자 프로필 기능
   - 해당 사용자가 올린 낙찰 전인 경매중인 상품 확인
@@ -49,42 +49,36 @@
 ### 채팅 기능 🗨
 - 실시간 채팅
 
-<img src="" width="200">
+<img src="https://plume-eggplant-120.notion.site/image/attachment%3Adbf96d7d-b5b6-4919-b706-08f292c3e39b%3Ab7f3338c-2096-4ee4-85c3-3b59443e8b98.png?table=block&id=1bda7531-5bc1-80b8-bb3d-e72f8c569a51&spaceId=d46d143d-a567-49ee-a0a4-561f528249d4&width=480&userId=&cache=v2" width="200">
 
 - 거래 확정 버튼 전송
 
-<img src="" width="200">
+<img src="https://plume-eggplant-120.notion.site/image/attachment%3Adc93a8e4-2148-42c4-b2e7-a6bb69648157%3Aa75158ef-ed82-4e8a-be74-8751297d85c1.png?table=block&id=1bca7531-5bc1-80ed-b67b-eafbe7150000&spaceId=d46d143d-a567-49ee-a0a4-561f528249d4&width=410&userId=&cache=v2" width="200">
 
 - 갤러리에 저장된 사진 및 카메라로 찍은 사진 전송
 
-<img src="" width="200">
+<img src="https://postfiles.pstatic.net/MjAyNTAzMjFfNzYg/MDAxNzQyNTU1OTE4MTkx.P22-O__EuYe_2CE3E0kxJc5YqP2al-ZGcG26CcIG1j0g.2cYEmIxAOJyu50oN-JGXWwpwWF_RrDQpu8uDQSdyj64g.PNG/SE-126dd157-6959-47db-96ad-88c50948426d.png?type=w966" width="200">
 
 
 ### 프로필 기능 🤠
 - 채팅방 연결
 
-<img src="" width="200">
+<img src="https://postfiles.pstatic.net/MjAyNTAzMjFfMjM2/MDAxNzQyNTU2MjQ0MjM1.mpMrUgHtog29CqCPJ4P1JFu80QDB01E885Z32EpZRgwg.VpUI8vkvVOw1C7MQTIAUrqc6Bj249AZBRVCXw5zA2p0g.PNG/SE-0b21b6c0-4f8f-49f8-b68a-98d829edb931.png?type=w966" width="200">
 
 - 해당 사용자가 올린 낙찰 전인 경매중인 상품 확인
-
-<img src="" width="200">
-
 - 해당 사용자가 올린 낙찰 후 판매중인 상품 확인
-
-<img src="" width="200">
-
 - 해당 사용자가 올린 낙찰 후 판매완료 상품 확인
 
-<img src="" width="200">
+<img src="https://postfiles.pstatic.net/MjAyNTAzMjFfMjMg/MDAxNzQyNTU2MTUyODU4.UzE6MPPRboMK4LrtZ3STnP8s3OgPRAKRkSndPLdoEuIg.pNW57rsdRulFz5bbcB1k4UJbBUAO2uGbjqUCe2MIKU8g.PNG/%ED%94%84%EB%A1%9C%ED%95%842.PNG?type=w966" width="200">
 
 ### 마이페이지 기능 🛒
 - 현재 나의 판매중, 판매 완료 물품 목록 확인
 
-<img src="" width="200">
+<img src="https://plume-eggplant-120.notion.site/image/attachment%3A7899c37f-5619-429e-88c5-5a496225d9e3%3A2ab46be5-e65e-4163-bd59-a94a327c3b93.png?table=block&id=1bda7531-5bc1-80cc-960e-fb33a9dfdc33&spaceId=d46d143d-a567-49ee-a0a4-561f528249d4&width=350&userId=&cache=v2" width="200"> <img src="https://plume-eggplant-120.notion.site/image/attachment%3Ad85ba727-3563-4a29-b606-8e9539668b05%3Af762b994-d549-4326-ac75-1755175dd31b.png?table=block&id=1bda7531-5bc1-80f5-b684-cf113bacbe90&spaceId=d46d143d-a567-49ee-a0a4-561f528249d4&width=300&userId=&cache=v2" width="200">
 
 - 내가 구매한 물품 목록 확인
 
-<img src="" width="200">
+<img src="https://plume-eggplant-120.notion.site/image/attachment%3A346ddca7-2073-4e55-949e-49aacfd6c536%3Ab5c0e1a1-b2c9-4132-9ae1-dbcd776f8c3f.png?table=block&id=1bda7531-5bc1-8035-bd27-d24d7c84eb5b&spaceId=d46d143d-a567-49ee-a0a4-561f528249d4&width=360&userId=&cache=v2" width="200">
 
 ## 그 외 기능
 ### 유저 기능
